@@ -4,9 +4,7 @@
   "description": "Display My User Agent App",
   "launch_path": "/index.html",
   "icons": {
-    "16": "/icon-16.png",
-    "48": "/icon-48.png",
-    "128": "/icon-128.png"
+    "64": "/icon-64.png"
   },
   "developer": {
     "name": "Owen Ouyang",
