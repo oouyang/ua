@@ -1,7 +1,7 @@
 {
   "version": "0.1",
   "name": "User Agent App",
-  "description": "Owen Ouyang User Agent App",
+  "description": "Display My User Agent App",
   "launch_path": "/index.html",
   "icons": {
     "16": "/icon-16.png",
