@@ -1,0 +1,16 @@
+{
+  "version": "0.1",
+  "name": "User Agent App",
+  "description": "Owen Ouyang User Agent App",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/icon-16.png",
+    "48": "/icon-48.png",
+    "128": "/icon-128.png"
+  },
+  "developer": {
+    "name": "Owen Ouyang",
+    "url": "http://oouyang.github.io"
+  },
+  "default_locale": "en"
+}
