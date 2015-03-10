@@ -1,6 +1,31 @@
 # ua
 User Agent App
 
+FirefoxOS Certification Suite Report: webapi
+============================================
+
+Test Regressions
+----------------
+
+Parent Test
+
+Subtest
+
+Expected
+
+Result
+
+Message
+
+webapi\_tests.idle.test\_idle\_active.TestIdleActive.test\_idle\_state
+
+PASS
+
+Pass
+
+
+
+
 This is a table
 
 
